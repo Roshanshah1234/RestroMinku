@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "234609733879",
+    "firebase_url": "https://restrominku3.firebaseio.com",
+    "project_id": "restrominku3",
+    "storage_bucket": "restrominku3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:234609733879:android:714edb443616c42e",
+        "android_client_info": {
+          "package_name": "com.example.roshan.restrominku3"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "234609733879-j9hl5ia7htm5p1ag78tj3ru2s6q09oh3.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCJDga4KQWyZtyyiSPJCjvlfXyINxkfFtw"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
